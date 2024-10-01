@@ -131,6 +131,55 @@ Root found: x = 0.607086
 
 
 			Output for Iteration3.c
+
+
+                        Output for NewtonBackward.c
+
+Name: Priya Bahuguna
+Roll No: 44
+Section: C
+			Newton Backward Interpolation Method
+Enter the number of data points: 
+Enter the data points (year and population):
+
+Calculating population for the year: 
+Backward Difference Table:
+   x      f(x)   ∇^1 f(x)   ∇^2 f(x)   ∇^3 f(x)   ∇^4 f(x)   
+1891.00   46.00   
+1901.00   66.00   20.00   
+1911.00   81.00   15.00   -5.00   
+1921.00   93.00   12.00   -3.00   2.00   
+1931.00   101.00   8.00   -4.00   -1.00   -3.00   
+Result:
+Year: 1925	Population: 96.84
+
+                        Output for NewtonForward.c
+
+Name: Priya Bahuguna
+Roll No: 44
+Section: C
+			Newton Forward Interpolation Method
+Enter the number of data points: 
+Enter the data points (year and population):
+Calculating population for the year: 
+
+Forward Difference Table:
+   x      f(x)   Δ^1 f(x)   Δ^2 f(x)   Δ^3 f(x)   Δ^4 f(x)   
+1891.00   46.00   20.00   -5.00   2.00   -3.00   
+1901.00   66.00   15.00   -3.00   -1.00   
+1911.00   81.00   12.00   -4.00   
+1921.00   93.00   8.00   
+1931.00   101.00   
+Result:
+Year: 1895	Population: 54.85
+
+                        Output for NewtonRaphson.c
+
+
+                        Output for RegulaFalsi.c
+                        Output for RegularFalsi2nd.c
+                        Output for Secant.c
+
 			
 
 

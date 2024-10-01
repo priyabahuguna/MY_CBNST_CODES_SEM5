@@ -18,7 +18,16 @@
 1 2 3 5
 3 -4 -5 -13
                         Input for Iteration.c
+0
+0.5
+0.0001
                         Input for Iteration2.c
+
                         Input for Iteration3.c
 
-
+                        Input for NewtonBackward.c
+                        Input for NewtonForward.c
+                        Input for NewtonRaphson.c
+                        Input for RegulaFalsi.c
+                        Input for RegularFalsi2nd.c
+                        Input for Secant.c

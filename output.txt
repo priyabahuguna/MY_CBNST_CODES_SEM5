@@ -55,7 +55,83 @@ Number of iterations: 13
 
 			Output for Gauss_Elimination_Method.c
 
+Name: Priya Bahuguna
+Roll No: 44
+Section: C
+			Gauss Elimination Method
+Enter the matrix order (n): 
+Enter the augmented matrix (n x n+1):
 
+After step 1, Intermediate Matrix:
+1.00	-1.00	2.00	3.00	
+0.00	3.00	1.00	2.00	
+0.00	-1.00	-11.00	-22.00	
+
+After step 2, Intermediate Matrix:
+1.00	-1.00	2.00	3.00	
+0.00	3.00	1.00	2.00	
+0.00	0.00	-10.67	-21.33	
+
+Upper Triangular Matrix
+1.00	-1.00	2.00	3.00	
+0.00	3.00	1.00	2.00	
+0.00	0.00	-10.67	-21.33	
+
+Final values:
+x1 = -1.00
+x2 = 0.00
+x3 = 2.00
+
+			Output for Gauss_Jordan.c
+
+Name: Priya Bahuguna
+Roll No: 44
+Section: C
+			Gauss Jordan Method
+Enter the matrix order (n): 
+Enter the augmented matrix (n x n+1):
+After step 1, Intermediate Matrix:
+1.00	-1.00	2.00	3.00	
+0.00	3.00	1.00	2.00	
+0.00	-1.00	-11.00	-22.00	
+After step 2, Intermediate Matrix:
+1.00	0.00	2.33	3.67	
+0.00	1.00	0.33	0.67	
+0.00	0.00	-10.67	-21.33	
+Upper Triangular Matrix
+1.00	0.00	0.00	-1.00	
+0.00	1.00	0.00	0.00	
+-0.00	-0.00	1.00	2.00	
+
+Solution:
+x1 = -1.00
+x2 = 0.00
+x3 = 2.00
+
+			Output for Iteration.c
+
+Name: Priya Bahuguna
+Roll No: 44
+Section: C
+			Iteration Method
+
+Enter first guess = 
+Enter second guess = 
+Enter the tolerance = 
+Iteration		x0		f(x0)
+0			0.000000		2.000000
+1			0.666667		-0.214113
+2			0.595296		0.042095
+3			0.609328		-0.007950
+4			0.606678		0.001514
+5			0.607182		-0.000288
+Root found: x = 0.607086
+
+			Output for Iteration2.c
+
+
+			Output for Iteration3.c
+			
 
 
 

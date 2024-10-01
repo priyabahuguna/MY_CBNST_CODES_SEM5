@@ -1,6 +1,24 @@
 /*
-Input For Bisection.c 
+                        Input For Bisection.c 
 1
 3
 0.0001 
+                        Input for Bisection2neq.c
+0
+1
+0.0001
+                        Input for Gauss_Elimination_Method.c
+3
+1 -1 2 3
+1 2 3 5
+3 -4 -5 -13
+                        Input for Gauss_Jordan.c
+3
+1 -1 2 3
+1 2 3 5
+3 -4 -5 -13
+                        Input for Iteration.c
+                        Input for Iteration2.c
+                        Input for Iteration3.c
+
 

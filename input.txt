@@ -26,8 +26,36 @@
                         Input for Iteration3.c
 
                         Input for NewtonBackward.c
+ 5
+1891 46
+1901 66
+1911 81
+1921 93
+1931 101
+1925                       
                         Input for NewtonForward.c
+5
+1891 46
+1901 66
+1911 81
+1921 93
+1931 101
+1895
                         Input for NewtonRaphson.c
+0
+1
+0.0001
                         Input for RegulaFalsi.c
+2
+3
+0.0001
                         Input for RegularFalsi2nd.c
+0
+1
+0.0001
                         Input for Secant.c
+2
+3
+100
+0.0001
+
